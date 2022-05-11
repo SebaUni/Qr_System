@@ -1,0 +1,12 @@
+nombre,apellido,rut,vigente,qr_path
+juan,gonzalez,17.468.989-K,0,qrs/17.468.989-K.png
+josefina,mu¤oz,20.899.458-1,0,qrs/20.899.458-1.png
+jose,rojas, 21.407.067-7,1, qrs/21.407.067-7.png
+raul,diaz,18.914.557-8,1,qrs/18.914.557-8.png
+antonio,perez,20.698.503-8,1,qrs/20.698.503-8.png
+francisco,soto,19.618.532-1,0,qrs/19.618.532-1.png
+maria,contreras,18.597.917-2,0,qrs/18.597.917-2.png
+andrea,silva,25.185.579-K,0,qrs/25.185.579-K.png
+joaquin,sepulveda, 21.301.651-2,0, qrs/21.301.651-2.png
+diego,martinez, 5.243.711-3,0, qrs/5.243.711-3.png
+pedro,cabrera, 15.336.849-K,0, qrs/15.336.849-K.png
